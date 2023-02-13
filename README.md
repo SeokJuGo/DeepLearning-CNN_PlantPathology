@@ -1,4 +1,7 @@
 # PlantPathology(DeepLearning & CNN 활용)
+
+### 기간 : 23.01.06~23.01.13
+
 > Kaggle 경진대회 Plant Pathology 2020 - FGVC7
 <img width="80%" src="https://user-images.githubusercontent.com/116260619/211987672-fa454b9a-14b4-40a1-8818-d1058959bae0.png"/>
 
